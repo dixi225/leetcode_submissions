@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dixi225/leetcode_submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dixi225/leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
