@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
+| [2645-pass-the-pillow](https://github.com/dixi225/leetcode_submissions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dixi225/leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/dixi225/leetcode_submissions/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
 | ------- |
