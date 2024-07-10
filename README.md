@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dixi225/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1293-three-consecutive-odds](https://github.com/dixi225/leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dixi225/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dixi225/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
+| [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 ## String Matching
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
