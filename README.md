@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/dixi225/leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/dixi225/leetcode_submissions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dixi225/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/dixi225/leetcode_submissions/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/dixi225/leetcode_submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dixi225/leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2846-robot-collisions](https://github.com/dixi225/leetcode_submissions/tree/master/2846-robot-collisions) |
@@ -154,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
