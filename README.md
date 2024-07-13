@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dixi225/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dixi225/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1293-three-consecutive-odds](https://github.com/dixi225/leetcode_submissions/tree/master/1293-three-consecutive-odds) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
