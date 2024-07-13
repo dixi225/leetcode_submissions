@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -162,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
