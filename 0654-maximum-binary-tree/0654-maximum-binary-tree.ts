@@ -22,11 +22,9 @@ function helper(nums:number[],i:number,j:number):TreeNode|null{
             ind=k
         }
     }
-    console.log(max)
     let head=new TreeNode(max)
     head.left=helper(nums,i,ind-1)
     head.right=helper(nums,ind+1,j)
-
     return head
 }
 
