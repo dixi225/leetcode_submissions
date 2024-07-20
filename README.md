@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dixi225/leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/dixi225/leetcode_submissions/tree/master/1803-average-waiting-time) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dixi225/leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String
 |  |
@@ -232,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dixi225/leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
