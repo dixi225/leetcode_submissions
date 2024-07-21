@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dixi225/leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/dixi225/leetcode_submissions/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -235,4 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dixi225/leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
