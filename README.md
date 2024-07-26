@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dixi225/leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dixi225/leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/dixi225/leetcode_submissions/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dixi225/leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/dixi225/leetcode_submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dixi225/leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
