@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/dixi225/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dixi225/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/dixi225/leetcode_submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/dixi225/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
+| [0636-exclusive-time-of-functions](https://github.com/dixi225/leetcode_submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/dixi225/leetcode_submissions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/dixi225/leetcode_submissions/tree/master/0735-asteroid-collision) |
