@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dixi225/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/dixi225/leetcode_submissions/tree/master/0948-sort-an-array) |
+| [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/dixi225/leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dixi225/leetcode_submissions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/dixi225/leetcode_submissions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/dixi225/leetcode_submissions/tree/master/1803-average-waiting-time) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixi225/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
