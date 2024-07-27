@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
+| [1048-clumsy-factorial](https://github.com/dixi225/leetcode_submissions/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/dixi225/leetcode_submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dixi225/leetcode_submissions/tree/master/2645-pass-the-pillow) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/dixi225/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
+| [1048-clumsy-factorial](https://github.com/dixi225/leetcode_submissions/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/dixi225/leetcode_submissions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/dixi225/leetcode_submissions/tree/master/1803-average-waiting-time) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixi225/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/dixi225/leetcode_submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1048-clumsy-factorial](https://github.com/dixi225/leetcode_submissions/tree/master/1048-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
