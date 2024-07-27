@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dixi225/leetcode_submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dixi225/leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/dixi225/leetcode_submissions/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/dixi225/leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/dixi225/leetcode_submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/dixi225/leetcode_submissions/tree/master/1048-clumsy-factorial) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/dixi225/leetcode_submissions/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
