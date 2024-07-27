@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/dixi225/leetcode_submissions/tree/master/0726-number-of-atoms) |
 | [0886-score-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixi225/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/dixi225/leetcode_submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixi225/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/dixi225/leetcode_submissions/tree/master/0983-validate-stack-sequences) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/dixi225/leetcode_submissions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dixi225/leetcode_submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
