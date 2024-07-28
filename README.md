@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dixi225/leetcode_submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dixi225/leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dixi225/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dixi225/leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2317-count-collisions-on-a-road](https://github.com/dixi225/leetcode_submissions/tree/master/2317-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/dixi225/leetcode_submissions/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2573-remove-nodes-from-linked-list) |
