@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dixi225/leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dixi225/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1511-count-number-of-teams](https://github.com/dixi225/leetcode_submissions/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dixi225/leetcode_submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/dixi225/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixi225/leetcode_submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/dixi225/leetcode_submissions/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/dixi225/leetcode_submissions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
