@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dixi225/leetcode_submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dixi225/leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dixi225/leetcode_submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2317-count-collisions-on-a-road](https://github.com/dixi225/leetcode_submissions/tree/master/2317-count-collisions-on-a-road) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dixi225/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixi225/leetcode_submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/dixi225/leetcode_submissions/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dixi225/leetcode_submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dixi225/leetcode_submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dixi225/leetcode_submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dixi225/leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
