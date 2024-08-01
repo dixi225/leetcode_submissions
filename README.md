@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dixi225/leetcode_submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dixi225/leetcode_submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dixi225/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dixi225/leetcode_submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dixi225/leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
