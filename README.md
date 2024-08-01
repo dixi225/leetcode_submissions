@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dixi225/leetcode_submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dixi225/leetcode_submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixi225/leetcode_submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
