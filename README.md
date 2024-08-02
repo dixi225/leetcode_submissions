@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dixi225/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dixi225/leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/dixi225/leetcode_submissions/tree/master/2227-sum-of-subarray-ranges) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dixi225/leetcode_submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dixi225/leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/dixi225/leetcode_submissions/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dixi225/leetcode_submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
