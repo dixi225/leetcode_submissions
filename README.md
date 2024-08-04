@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dixi225/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dixi225/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/dixi225/leetcode_submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dixi225/leetcode_submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 ## Greedy
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dixi225/leetcode_submissions/tree/master/0733-flood-fill) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/dixi225/leetcode_submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/dixi225/leetcode_submissions/tree/master/1036-rotting-oranges) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dixi225/leetcode_submissions/tree/master/0733-flood-fill) |
