@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/dixi225/leetcode_submissions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dixi225/leetcode_submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixi225/leetcode_submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/dixi225/leetcode_submissions/tree/master/1720-crawler-log-folder) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dixi225/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dixi225/leetcode_submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dixi225/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/dixi225/leetcode_submissions/tree/master/0456-132-pattern) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dixi225/leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/dixi225/leetcode_submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dixi225/leetcode_submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/dixi225/leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dixi225/leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dixi225/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/dixi225/leetcode_submissions/tree/master/2502-sort-the-people) |
