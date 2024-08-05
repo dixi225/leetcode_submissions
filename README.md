@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/dixi225/leetcode_submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/dixi225/leetcode_submissions/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dixi225/leetcode_submissions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/dixi225/leetcode_submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/dixi225/leetcode_submissions/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dixi225/leetcode_submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/dixi225/leetcode_submissions/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixi225/leetcode_submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dixi225/leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixi225/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dixi225/leetcode_submissions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/dixi225/leetcode_submissions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/dixi225/leetcode_submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dixi225/leetcode_submissions/tree/master/1073-number-of-enclaves) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dixi225/leetcode_submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
