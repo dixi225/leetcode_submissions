@@ -5,7 +5,7 @@ class Solution {
     for(int i=0;i<prerequisites.length;i++){
         int indexToBeInserted=prerequisites[i][0];
         int itemToBeInserted=prerequisites[i][1];
-        graph.get(itemToBeInserted).add(indexToBeInserted);
+        graph.get(indexToBeInserted).add(itemToBeInserted);
     }
     return graph;
     }
@@ -37,10 +37,10 @@ class Solution {
             }
         }
         if(stack.size()!=n) return new int[0];
-        int i=n-1;
+        int i=0;
         while(!stack.isEmpty()){
             order[i]=stack.pop();
-            i--;
+            i++;
         }
         return order;
     }
