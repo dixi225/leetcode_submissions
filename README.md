@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dixi225/leetcode_submissions/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/dixi225/leetcode_submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dixi225/leetcode_submissions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dixi225/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dixi225/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
+| [0127-word-ladder](https://github.com/dixi225/leetcode_submissions/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/dixi225/leetcode_submissions/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/dixi225/leetcode_submissions/tree/master/0316-remove-duplicate-letters) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dixi225/leetcode_submissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/dixi225/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dixi225/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dixi225/leetcode_submissions/tree/master/0207-course-schedule) |
