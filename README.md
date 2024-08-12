@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dixi225/leetcode_submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dixi225/leetcode_submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixi225/leetcode_submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/dixi225/leetcode_submissions/tree/master/0654-maximum-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dixi225/leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dixi225/leetcode_submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dixi225/leetcode_submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/dixi225/leetcode_submissions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dixi225/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Breadth-First Search
 |  |
@@ -436,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dixi225/leetcode_submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
