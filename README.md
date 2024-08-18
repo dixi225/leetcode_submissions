@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dixi225/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dixi225/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/dixi225/leetcode_submissions/tree/master/0273-integer-to-english-words) |
 | [1048-clumsy-factorial](https://github.com/dixi225/leetcode_submissions/tree/master/1048-clumsy-factorial) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/dixi225/leetcode_submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/dixi225/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dixi225/leetcode_submissions/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/dixi225/leetcode_submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dixi225/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/dixi225/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/dixi225/leetcode_submissions/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dixi225/leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/dixi225/leetcode_submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixi225/leetcode_submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/dixi225/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dixi225/leetcode_submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/dixi225/leetcode_submissions/tree/master/0948-sort-an-array) |
 ## Merge Sort
